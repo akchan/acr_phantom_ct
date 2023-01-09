@@ -4,6 +4,8 @@
 This is a python library to generate numerical phantom of ACR (American College of Radiology)
 CT phantom which is provied as Gamma 464 phantom.
 
+You can use this numerical phantom for an image reconstruction lecture or research.
+
 At this time, this library provides only the module 2.
 
 # Getting Started
